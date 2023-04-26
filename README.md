@@ -16,5 +16,5 @@ I'm a 2nd year CSE Undergrad from<br>Manipal Institute of Technology<br><br>I'm 
 [![](https://visitcount.itsvg.in/api?id=viswatara&icon=9&color=10)](https://visitcount.itsvg.in)
 
 
-  ![Snake animation](https://github.com/viswatara/viswatara/blob/output/github-contribution-grid-snake.svg)
+ 
 
