@@ -1,5 +1,5 @@
 ## About Me:
-I'm a 2nd year CSE Undergrad from<br>Manipal Institute of Technology<br><br>I'm currently learning C, Java, HTML,<br>CSS, Javascript,Python,SQL<br><br>
+I'm a 3rd year CSE Undergrad from<br>Manipal Institute of Technology<br><br>I'm currently learning C, Java, HTML,<br>CSS, Javascript,Python,SQL<br><br>
 
 
 ## Find me here :
